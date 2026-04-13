@@ -29,36 +29,10 @@
 ---
 
 ## 🧑‍💻 About Me
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
+I am a passionate Full Stack Developer specializing in building scalable enterprise applications and robust backend systems. Currently pursuing my Master of Computer Applications (MCA) at D. Y. Patil Agriculture and Technical University, Kolhapur, I maintain an impressive 9.1/10 CGPA while actively contributing to real-world software solutions.
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
-```yaml
-name: Sushil Patil
-role: Software Developer Intern @ Kalibyte Solutions
-education: 
-  - MCA @ D. Y. Patil University
-  - CGPA: 9.1/10 ⭐
-location: Sangli, Maharashtra, India
-current_focus:
-  - 🔭 Building production-grade REST APIs
-  - 🏗️ Designing scalable microservices architecture
-  - 🛡️ Implementing JWT-based authentication
-  - ⚡ Optimizing JPQL queries for performance
-  - 🔄 Working with CI/CD pipelines & Agile workflows
-interests: [Backend Development, ERP Systems, Cloud Computing]
-pronouns: He/Him
-```
-
-### 🌟 Highlights
-
-- 💼 **Currently Working:** Software Developer Intern at **Kalibyte Solutions Pvt. Ltd.**
-- 🎯 **Specialized In:** Enterprise-level **Spring Boot** applications & **RESTful APIs**
-- 🏆 **Academic Excellence:** Maintaining **9.1/10 CGPA** in MCA program
-- 🔐 **Security Focus:** Expert in **JWT Authentication** & **Spring Security**
-- 📊 **Database Optimization:** Proficient in **JPQL**, **HQL**, and query optimization
-- 🤝 **Methodology:** Strong advocate of **Agile/Scrum** development practices
-- 📫 **Contact:** patilsushil794@gmail.com
-
+As a Software Developer Intern, I work on developing production-grade REST APIs, implementing JWT-based authentication systems, and optimizing database queries for high-performance applications. My expertise lies in the Spring Boot ecosystem, where I architect microservices and build secure, maintainable code following industry best practices.
 ---
 
 ## 🛠️ Tech Stack & Tools
@@ -127,58 +101,6 @@ pronouns: He/Him
 </p>
 ---
 
-## 💡 Featured Skills
-
-<table>
-  <tr>
-    <td align="center" width="25%">
-      <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring Boot"/>
-      <br><strong>Spring Boot</strong>
-      <br><sub>Production APIs</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React"/>
-      <br><strong>React.js</strong>
-      <br><sub>Modern UI</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker"/>
-      <br><strong>Docker</strong>
-      <br><sub>Containerization</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL"/>
-      <br><strong>MySQL</strong>
-      <br><sub>Database Design</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="25%">
-      <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java"/>
-      <br><strong>Java</strong>
-      <br><sub>Core Expertise</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git"/>
-      <br><strong>Git</strong>
-      <br><sub>Version Control</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman"/>
-      <br><strong>Postman</strong>
-      <br><sub>API Testing</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://skillicons.dev/icons?i=jenkins" width="48" height="48" alt="Jenkins"/>
-      <br><strong>Jenkins</strong>
-      <br><sub>CI/CD Pipeline</sub>
-    </td>
-  </tr>
-</table>
-
----
-
-## 🤝 Let's Connect!
 
 <p align="center">
   <a href="https://linkedin.com/in/Patil-Sushil" target="_blank">
@@ -202,17 +124,3 @@ pronouns: He/Him
 </p>
 
 ---
-
-<details>
-<summary>📜 <b>Quick Facts</b></summary>
-<br>
-
-- 🎓 **Academic Performance:** Consistent 9+ CGPA
-- 💼 **Professional Experience:** Software Development Intern
-- 🏅 **Certifications:** Java, Spring Boot, REST APIs
-- 🌱 **Currently Learning:** Kubernetes, AWS, System Design
-- 👯 **Looking to Collaborate:** Open Source Spring Boot Projects
-- 💬 **Ask Me About:** Java, Spring Boot, REST APIs, Microservices
-- ⚡ **Fun Fact:** I debug code faster than I debug my life! 😄
-
-</details>
