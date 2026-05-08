@@ -30,9 +30,13 @@
 
 ## 🧑‍💻 About Me
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
-I am a passionate Full Stack Developer specializing in building scalable enterprise applications and robust backend systems. Currently pursuing my Master of Computer Applications (MCA) at D. Y. Patil Agriculture and Technical University, Kolhapur, I maintain an impressive 9.1/10 CGPA while actively contributing to real-world software solutions.
+I have always been someone who learns best by actually building things — not just reading about them.
 
-As a Full Stack Developer Intern, I work on developing production-grade REST APIs, implementing JWT-based authentication systems, and optimizing database queries for high-performance applications. My expertise lies in the Spring Boot ecosystem, where I architect microservices and build secure, maintainable code following industry best practices.
+I am currently pursuing my **MCA at D. Y. Patil Agriculture and Technical University, Kolhapur** — sitting at a **9.1 CGPA** — but honestly, what has taught me the most is working on real software while still being a student.
+
+As a Full Stack Developer Intern at Kalibyte Solutions, I am not just doing small tasks on the side. I am working on a production ERP system — writing REST APIs that real users depend on, setting up JWT-based authentication, and optimizing database queries that were actually causing performance issues. That gap between classroom knowledge and production reality is something I have had to figure out fast, and I am glad I did.
+
+My comfort zone is the Spring Boot ecosystem — building backend systems that are clean, secure, and built to scale. But I do not stop at the backend. I care about how everything connects — the architecture, the data layer, the way the frontend consumes what I build.
 ---
 
 ## 🛠️ Tech Stack & Tools
