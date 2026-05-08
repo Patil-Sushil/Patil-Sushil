@@ -32,7 +32,7 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 I am a passionate Full Stack Developer specializing in building scalable enterprise applications and robust backend systems. Currently pursuing my Master of Computer Applications (MCA) at D. Y. Patil Agriculture and Technical University, Kolhapur, I maintain an impressive 9.1/10 CGPA while actively contributing to real-world software solutions.
 
-As a Software Developer Intern, I work on developing production-grade REST APIs, implementing JWT-based authentication systems, and optimizing database queries for high-performance applications. My expertise lies in the Spring Boot ecosystem, where I architect microservices and build secure, maintainable code following industry best practices.
+As a Full Stack Developer Intern, I work on developing production-grade REST APIs, implementing JWT-based authentication systems, and optimizing database queries for high-performance applications. My expertise lies in the Spring Boot ecosystem, where I architect microservices and build secure, maintainable code following industry best practices.
 ---
 
 ## 🛠️ Tech Stack & Tools
